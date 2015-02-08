@@ -1,7 +1,7 @@
 ﻿////////////////////////////////////////////////////////////////////////////////
 //
 //  NIGHTSTORM GAMES STUDIOS
-//  Copyright 2014 Nightstomr  Games Studio. http://nightstorm.gr
+//  Copyright 2015 Nightstomr  Games Studio. http://nightstorm.gr
 // All Rights Reserved. "$(ProjectName)" Project
 // @author Nick Lampadarios http://nicklampadarios.com/
 // 
