@@ -10,7 +10,7 @@
 //  for any purpose
 //
 //
-//	You can load this assets in editor only
+//  You can load this assets in editor only
 //
 //  To load an asset: (ASSET_TYPE)EditorGUIUtility.Load("ASSET_PATH")
 //	example: Texture2D myImage =  (Texture2D)EditorGUIUtility.Load("brushes/builtin_brush_19.png")
@@ -23,7 +23,7 @@
 //  
 //  and the name of the icon without the file extension.
 // 
-//	example: 	Texture2D myIcon  =  EditorGUIUtility.IconContent("prefab icon")
+//  example: 	Texture2D myIcon  =  EditorGUIUtility.IconContent("prefab icon")
 //				icons/generated/prefab icon.asset
 //
 //  example2:	Texture2D myIcon  =  EditorGUIUtility.IconContent("avatarinspector/righthandzoomsilhouette")
