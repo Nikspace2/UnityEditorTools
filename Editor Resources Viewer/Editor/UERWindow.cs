@@ -148,7 +148,7 @@ public class UERWindow : EditorWindow {
 		EditorGUILayout.BeginHorizontal();
 		GUILayout.Label("Unity Version : ");
 #if UNITY_4_6
-		GUILayout.Label("4.6.2");
+		GUILayout.Label("4.6");
 #elif UNITY_5
 		GUILayout.Label("5.0");
 #else
